@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/0a82748f1e823282bd0c7cee804e2f23a51fcf68/assets/Bottom_up.svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=84F7ED&width=435&lines=Hey++there+%F0%9F%91%8B+%2C+My+name+is+Tarun;I+am+passionate+about++Data+Science+;and++New++Algorithms;Always+learn+New+Things...;See+my++projects" alt="Typing SVG" /></a>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/chRJ5Q0ZsQ1Ft8CK06J5dqd4SIeZMObhLhVHNjV3P0s/rs:fit:720:504:1/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/bWF4LzE0NDAvMSoy/eE44YnpOMUdSM3NE/NFBOY1lka3hBLmdp/Zg.gif">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/OiPgk6k1NpMQblyw998JRcgWGrb30z0ZN_cntrpdcb0/rs:fit:800:600:1/g:ce/aHR0cHM6Ly93d3cu/YW5hbHl0aWNzaW5k/aWFtYWcuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzEy/L2RldmVsb3Blci1k/cmliYmJsZS5naWY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itstarun1999&label=Profile%20views&color=0e75b6&style=flat" alt="itstarun1999" /> </p>
 
